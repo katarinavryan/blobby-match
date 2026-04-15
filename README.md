@@ -4,25 +4,22 @@
 
 🔗 **[Try it live](https://genre-shade-73178097.figma.site/)**
 
-My son has two blobbies. He has strong opinions about which squishmallows should be friends. He also, it turns out, invented a product.
+My 8 year old son asked me how does AI learn - so I created a prototype product that allows him to teach it. 
+He loves Squishmallows and calls them blobbies (but only if they are over a certain size! - there is the first metadata setting) and has two of them. He has strong opinions about which Squishmallows should be friends.  
 
-This app lets him (and anyone else) figure out which squishmallows belong together — and why. It also happens to be a working demonstration of attribute-based metadata matching: the same logic that powers content discovery engines at scale.
+This app lets him (and anyone else) figure out which Squishmallows belong together — and why. It is also a working demonstration of attribute-based metadata matching: the same logic that powers content discovery engines at scale - and an eval tool that can be used by kids to teach AI.
 
 ---
 
 ## What is a blobby?
 
-Not all squishmallows are blobbies. A blobby is a squishmallow that is **20 inches or larger** — big enough to hug properly, soft enough to be genuinely comforting, substantial enough to feel like a presence in a room.
-
-The distinction matters for matching. A blobby isn't a toy you put on a shelf. It's a companion.
-
----
+Not all squishmallows are blobbies - a blobby has to be at least 16 inches and soft - I did not make these rules, my son and his friends did. ---
 
 ## The problem it solves
 
 Squishmallows come with names, personalities, and little backstory cards. But the question my son kept asking was more specific: *who should go for a walk together? who cooks for whom? whose colours match for a beach day?*
 
-There's no system for this. The data lives on the tag. The matching lives in a child's imagination. This bridges the gap — and in doing so, demonstrates something genuinely interesting about how structured metadata enables intelligent recommendations.
+There's no system for this. The data lives on the tag. The matching lives in a child's imagination. This bridges the gap -and in doing so, demonstrates something genuinely interesting about how structured metadata enables intelligent recommendations.
 
 ---
 
