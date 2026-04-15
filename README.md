@@ -2,6 +2,8 @@
 
 **A squishmallow friendship matcher — powered by metadata and AI.**
 
+🔗 **[Try it live](https://genre-shade-73178097.figma.site/)**
+
 My son has two blobbies. He has strong opinions about which squishmallows should be friends. He also, it turns out, invented a product.
 
 This app lets him (and anyone else) figure out which squishmallows belong together — and why. It also happens to be a working demonstration of attribute-based metadata matching: the same logic that powers content discovery engines at scale.
